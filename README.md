@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Giau 👋
+## Bonjour, moi c'est Giau 👋
 
 Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à **Ada Tech School**, où je suis une formation pour devenir **Développeuse Full Stack**. 🚀  
 Je suis passionnée par le code et j'adore apprendre de nouvelles technologies en réalisant des projets concrets. 💡  
