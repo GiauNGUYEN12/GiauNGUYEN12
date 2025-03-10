@@ -7,10 +7,10 @@ Je suis passionnée par le code et j'adore apprendre de nouvelles technologies e
 
 <h3> 📚 À propos de moi</h3> 
 <ul>
- <li>🎓 <strong>Formation</strong> : Développeuse Full Stack - Ada Tech School </li> <br> 
- <li>💻 <strong>Technologies maîtrisées</strong> :JavaScript,HTML, CSS, SQL. </li><br> 
- <li>🌱 <strong>En apprentissage</strong> :  React </li><br> 
- <li>🤝 <strong>Collaborations</strong> : Ouverte à travailler sur des projets intéressants ou contribuer à des projets open-source.</li> <br>  
+ <li>🎓 <strong>Formation</strong> : Développeuse Full Stack - Ada Tech School </li>
+ <li>💻 <strong>Technologies maîtrisées</strong> :JavaScript,HTML, CSS, SQL. </li>
+ <li>🌱 <strong>En apprentissage</strong> :  React </li>
+ <li>🤝 <strong>Collaborations</strong> : Ouverte à travailler sur des projets intéressants ou contribuer à des projets open-source.</li>
  <li>📫 <strong>Comment me contacter</strong> : giaunguyen0216@gmail.com </li>
 </ul>
 
