@@ -6,11 +6,13 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à [**Ada Tech
 Je suis passionnée par le code et j'adore apprendre de nouvelles technologies en réalisant des projets concrets. 💡  
 
 <h3> 📚 À propos de moi</h3>  
-- 🎓 <strong>Formation</strong> : Développeuse Full Stack - Ada Tech School <br> 
-- 💻 <strong>Technologies maîtrisées</strong> :JavaScript,HTML, CSS, SQL. <br> 
-- 🌱 <strong>En apprentissage</strong> :  React <br> 
-- 🤝 <strong>Collaborations</strong> : Ouverte à travailler sur des projets intéressants ou contribuer à des projets open-source. <br>  
-- 📫 <strong>Comment me contacter</strong> : giaunguyen0216@gmail.com
+<li>
+ 🎓 <strong>Formation</strong> : Développeuse Full Stack - Ada Tech School <br> 
+ 💻 <strong>Technologies maîtrisées</strong> :JavaScript,HTML, CSS, SQL. <br> 
+ 🌱 <strong>En apprentissage</strong> :  React <br> 
+ 🤝 <strong>Collaborations</strong> : Ouverte à travailler sur des projets intéressants ou contribuer à des projets open-source. <br>  
+ 📫 <strong>Comment me contacter</strong> : giaunguyen0216@gmail.com
+</li>
 
  <h3> 💼 Projets récents</h3>
 <h3> 🛒 Platform - Vente de meubles de seconde main</h3>  
