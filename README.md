@@ -1,5 +1,5 @@
 <div align="center">
-  # Bonjour, moi c'est Giau 👋
+  <h1>Bonjour, moi c'est Giau 👋</h1>
 </div>
 
 Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à [**Ada Tech School**](https://adatechschool.fr/), où je suis une formation pour devenir **Développeuse Full Stack**. 🚀  
