@@ -13,7 +13,7 @@ Je suis passionnée par le code et j'adore apprendre de nouvelles technologies e
 - 📫 **Comment me contacter** : giaunguyen0216@gmail.com
 
  <h3> 💼 Projets récents</h3>
-### 🛒 **Platform - Vente de meubles de seconde main**  
+<h3> 🛒 Platform - Vente de meubles de seconde main</h3>  
 Projet collaboratif réalisé en groupe de 8 personnes dans le cadre de ma formation à **Ada Tech School**.  
 L'objectif est de créer une plateforme permettant de vendre et d'acheter des meubles de seconde main de manière simple et intuitive.
 
