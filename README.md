@@ -15,7 +15,7 @@ Je suis passionnée par le code et j'adore apprendre de nouvelles technologies e
 </ul>
 
  <h3> 💼 Projets récents</h3>
-<h3> 🛒 SurfSpot - Application mobile développée en SwiftUI</h3>
+<h3> 🏄🏼‍♀️ SurfSpot - Application mobile développée en SwiftUI</h3>
 L'application permet aux passionnée de surf et découvrir, consulter et partager les meilleurs spot de surf au tour du monde.
 <h3> 🛒 Platform - Vente de meubles de seconde main</h3>  
 Projet collaboratif réalisé en groupe de 8 personnes dans le cadre de ma formation à **Ada Tech School**.  
